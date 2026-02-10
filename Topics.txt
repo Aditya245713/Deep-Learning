@@ -1,3 +1,0 @@
-MODULE-1 (Deep Learning, Perceptron, Artificial Neural Network)
-MODULE-2 (Weight Updation Formula, Logical Gate Problems (AND, OR, NOT))
-MODULE-3 (Decision boundary and Bias Visualization, Perception Learning Rule)
